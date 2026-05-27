@@ -46,6 +46,17 @@ The dashboard includes:
 - Final insights & recommendations page
 
 ## Project Files
-SQL scripts included in /SQL folder
+SQL scripts included in [SQl](SQL/) folder
 
-Power BI dashboard included in /PowerBI folder
+Power BI dashboard included in [Power BI](PowerBI/) folder
+
+## Dashboard Pages
+
+### Overview
+![Overview](Images/Overview.png)
+
+### Product Performance
+![Product Performance](Images/Analysis.png)
+
+### Insights
+![Insights](Images/Insights.png)
