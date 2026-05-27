@@ -44,10 +44,8 @@ SQL was used to:
 
 The dashboard includes:
 
-- Overview page (KPIs and summary)
-- Customer insights analysis
+- Overview analysis
 - Product performance breakdown
-- Regional and time-based trends
 - Final insights & recommendations page
 
 ## Dashboard Pages
